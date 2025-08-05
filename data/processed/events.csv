@@ -1,5 +1,5 @@
-Event_Date,Event,Category,Date
-01-Jan-12,Arab Spring unrest,Geopolitical,2012-01-01
-01-Nov-14,OPEC decides not to cut production,Economic,2014-11-01
-01-Mar-20,COVID-19 pandemic begins,Global,2020-03-01
-24-Feb-22,Russia-Ukraine conflict begins,Geopolitical,2022-02-24
+Event_Date,Event,Category
+2012-01-01,Arab Spring unrest,Geopolitical
+2014-11-01,OPEC decides not to cut production,Economic
+2020-03-01,COVID-19 pandemic begins,Global
+2022-02-24,Russia-Ukraine conflict begins,Geopolitical
